@@ -1,3 +1,10 @@
+## 🏛️ Architecture (v5.2)
+
+Fully governed, self-learning, multi-agent NL-to-SQL platform built entirely within Snowflake Cortex.
+
+> No external LLM APIs. No third-party vector databases. No infrastructure outside Snowflake.
+
+```mermaid
 flowchart TD
 
 %% ---------------- UI Layer ----------------
