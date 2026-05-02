@@ -5,10 +5,6 @@
 
 **A Production-Grade, Fully Governed Multi-Agent NL-to-SQL Platform built entirely on Snowflake Cortex**
 
-[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)](https://snowflake.com)
-[![Cortex AI](https://img.shields.io/badge/Cortex_AI-00A86B?logo=snowflake&logoColor=white)](#)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](#)
-
 > From sandbox demo to enterprise production — complete with ABAC security, prompt injection defense, semantic caching, vector memory, self-learning feedback loops, and a polished Streamlit UI.
 
 ---
