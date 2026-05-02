@@ -206,7 +206,7 @@ Contributions welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guideli
 ## Author
 
 **Satish Kumar**  
-Snowflake Data Architect & AI Engineer  
+
 [LinkedIn](https://linkedin.com/in/satishkumar-snowflake)
 
 ---
@@ -224,11 +224,4 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 **Built with ❤️ on Snowflake Cortex**
 ```
 
-**Ready to copy-paste into your `README.md`!**
 
-Would you like me to also create:
-- A `SETUP.md` with step-by-step instructions?
-- Architecture diagram in Mermaid?
-- `CONTRIBUTING.md`?
-
-Let me know!
