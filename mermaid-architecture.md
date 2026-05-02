@@ -4,7 +4,7 @@
 flowchart TD
     %% Top Layer - UI
     UI[Streamlit in Snowflake UI<br/>AI Console • Query Editor • Dashboard • Agents • Governance] 
-    UI --> TopBar[Top Bar: User | Role | Credits | Queries | Latency]
+    UI --> TopBar[Top Bar: User • Role • Credits • Queries • Latency]
 
     %% Execution Pipeline
     subgraph SECURED["SECURED_AGENT_EXECUTE"]
@@ -31,7 +31,7 @@ flowchart TD
     subgraph DATA["GOVERNED DATA LAYER"]
         DT[Dynamic Tables<br/><small>5-min auto refresh</small>]
         Views[Semantic Views]
-        ABAC[ABAC + Masking +<br/>Row Access Policies]
+        ABAC[ABAC + Masking + Row Access Policies]
     end
 
     %% Observability
