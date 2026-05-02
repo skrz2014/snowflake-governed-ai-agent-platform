@@ -1,0 +1,4 @@
+name: sf_env
+dependencies:
+  - streamlit
+  - pandas
